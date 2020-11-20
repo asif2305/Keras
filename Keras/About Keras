@@ -1,0 +1,14 @@
+Source:https://www.youtube.com/watch?v=iFSC_y0aJmY&list=PL3GCZkoyKK4ehcDlwaVD8fdiS-w2U6nUt&ab_channel=AladdinPerssonAladdinPersson
+
+What is keras ?
+# keras is a high-level interface and uses Theano or Tensorflow for its backend
+# It runs smoothly on both CPU and GPU
+# Keras supports almost all the models of a deep learning - fully connected,convolution,pooling,recurrent,embedding etc
+# keras is a completely Python-based framework,which makes it easy to debug and explore
+
+Why use keras?
+# Keras offers consistent and simple APIs
+# It has stronger adoption in both the industry and the research community
+# Keras makes it easy to turn models into products
+# It supports multiple backend engines and does not lock into one ecosystem
+# Keras has strong multi-GPU support and distributed training support

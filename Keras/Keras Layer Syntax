@@ -1,0 +1,26 @@
+Architecture of Keras:
+Model :
+    # Sequential API
+    # Functional API
+
+Layers:
+    # Core
+          # Dense
+          # Activation
+          # Dropout
+          # Flatten
+          # Reshape
+          # Permute
+    # Convolution
+    # Pooling
+    # Recurrent
+    # Embedding
+    # Locally Connected
+    # Normalization
+    # Noise
+
+Modules:
+    # Backend
+    # Utils
+    # Dataset
+    # Application
